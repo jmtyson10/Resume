@@ -1,0 +1,43 @@
+Links:
+    ☐ edit href = "" of the home link to navigate to index.html 
+        DO NOT USE ROOT-RELATIVEPATHS OR LINK PATHS THAT BEGIN WITH A LEADING FORWARD SLASH, /
+
+Meets Expectations:
+    ☐ Project Includes the Following:
+        ☐ index.html
+        ☐ styles.css
+        ☐ a second html file
+        ☐ a new profile image
+        ☐ a new background image
+    ☐ Project must contain only 1 style sheet
+    ☐ Each social media icon links to student's personal profile on that site
+    ☐ Must at least retain the GetHub icon. Delete other social media icons if a link is not provided
+    ☐ The second page includes navigation links so the user is able to move between the pages
+    ☐ Link to second html file is present and links to a new page.
+    ☐ The second page contains:
+        ☐ additional text
+        ☐  an image
+    ☐ New profile image is in place
+        ☐ file size must be under 400 KB
+    ☐ "Profile image" class is still attached to profile <img> tag
+    ☐ New profile image's alt = "" attribute text has been updated
+    ☐ New backgournd images is in place
+        ☐ Fils size must be under 1 MB
+    ☐ All placeholder text has been changed for:
+        ☐ Name
+        ☐ Background section
+        ☐ Goals section
+    ☐ HTML and CSS code passes the validation
+    ☐ HTML and CSS errors and accepted exceptions
+
+Exceeds Expectations:
+    ☐ Extra page(s) added in addition to the Home and Second page and links to new pages work
+    ☐ At least one of the following CSS style properties has been changed on the profile picture
+        ☐ border
+        ☐ border-radius
+        ☐ transition
+        ☐ transformation
+    ☐ Additional text content has been added.
+    ☐ Changed tag names for the following <div> elements
+        ☐ <div class = "main-nav"> should be a <nav> tag
+        ☐ <div class = "card"> should be a <section> or <article> tag
