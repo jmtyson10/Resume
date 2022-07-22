@@ -4,14 +4,24 @@ Links:
 
 Meets Expectations:
     ☐ Project Includes the Following:
-        ☐ index.html
-        ☐ styles.css
+        ✔ index.html @done(22-07-22 20:48)
+        ✔ styles.css @done(22-07-22 20:49)
         ☐ a second html file
+            ☐ Add:
+                ☐ Jiujitsu
+                    ☐ Goal: Become a black belt
+                    ☐ 1 Pic
+                ☐ Working with horses
+                    ☐ Goals: Own one, compete in mounted shooting
+                    ☐ 1 Pic
+                ☐ Python
+                    ☐ Goal: there really isn't one I just like learning and playing with Python
+                    ☐ 1 Pic
         ☐ a new profile image
         ☐ a new background image
-    ☐ Project must contain only 1 style sheet
-    ☐ Each social media icon links to student's personal profile on that site
-    ☐ Must at least retain the GetHub icon. Delete other social media icons if a link is not provided
+    ✔ Project must contain only 1 style sheet @done(22-07-22 21:06)
+    ✔ Each social media icon links to student's personal profile on that site @done(22-07-22 21:21)
+    ✔ Must at least retain the GetHub icon. Delete other social media icons if a link is not provided @done(22-07-22 21:21)
     ☐ The second page includes navigation links so the user is able to move between the pages
     ☐ Link to second html file is present and links to a new page.
     ☐ The second page contains:
