@@ -1,12 +1,8 @@
-Links:
-    ☐ edit href = "" of the home link to navigate to index.html 
-        DO NOT USE ROOT-RELATIVEPATHS OR LINK PATHS THAT BEGIN WITH A LEADING FORWARD SLASH, /
-
 Meets Expectations:
     ☐ Project Includes the Following:
         ✔ index.html @done(22-07-22 20:48)
         ✔ styles.css @done(22-07-22 20:49)
-        ☐ a second html file
+        ☐ Hobbies html file
             ☐ Add:
                 ☐ Jiujitsu
                     ☐ Goal: Become a black belt
@@ -17,6 +13,23 @@ Meets Expectations:
                 ☐ Python
                     ☐ Goal: there really isn't one I just like learning and playing with Python
                     ☐ 1 Pic
+        ☐ Experience html file
+            ☐ Add:
+                ☐ BLUF Culinary
+                    ☐ 1 Picture
+                    ☐ learned skills
+                ☐ BLUF GIS
+                    ☐ 1 Picture
+                    ☐ Learned skills
+                    ☐ Learned technologies
+                ☐ BLUF Army
+                    ☐ 1 Picture
+                    ☐ Learned skills
+                    ☐ Learned technologies like MS Teams
+                ☐ BLUF BS in Public Health
+                    ☐ 1 Picture
+                    ☐ Learned skills
+                    ☐ Learned technologies
         ☐ a new profile image
         ☐ a new background image
     ✔ Project must contain only 1 style sheet @done(22-07-22 21:06)
