@@ -1,18 +1,21 @@
 Meets Expectations:
-    ☐ Project Includes the Following:
+    ✔ Project Includes the Following: @done(22-07-24 12:12)
         ✔ index.html @done(22-07-22 20:48)
         ✔ styles.css @done(22-07-22 20:49)
-        ☐ Hobbies html file
-            ☐ Add:
-                ☐ Jiujitsu
-                    ☐ Goal: Become a black belt
-                    ☐ 1 Pic
-                ☐ Working with horses
-                    ☐ Goals: Own one, compete in mounted shooting
-                    ☐ 1 Pic
-                ☐ Python
-                    ☐ Goal: there really isn't one I just like learning and playing with Python
-                    ☐ 1 Pic
+    ☐ The second page contains:
+        ☐ additional text
+        ☐  an image
+        ✔ Hobbies html file @done(22-07-24 15:55)
+            ✔ Add: @done(22-07-24 15:55)
+                ✔ Jiujitsu @done(22-07-24 15:55)
+                    ✔ Goal: Become a black belt @done(22-07-24 15:55)
+                    ✔ 1 Pic @done(22-07-24 15:55)
+                ✔ Working with horses @done(22-07-24 15:55)
+                    ✔ Goals: Own one, compete in mounted shooting @done(22-07-24 15:55)
+                    ✔ 1 Pic @done(22-07-24 15:55)
+                ✔ Python @done(22-07-24 15:55)
+                    ✔ Goal: there really isn't one I just like learning and playing with Python @done(22-07-24 15:55)
+                    ✔ 1 Pic @done(22-07-24 15:55)
         ☐ Experience html file
             ☐ Add:
                 ☐ BLUF Culinary
@@ -30,26 +33,27 @@ Meets Expectations:
                     ☐ 1 Picture
                     ☐ Learned skills
                     ☐ Learned technologies
-        ☐ a new profile image
-        ☐ a new background image
+        ✔ a new profile image @done(22-07-24 12:09)
+        ✔ a new background image @done(22-07-24 12:10)
     ✔ Project must contain only 1 style sheet @done(22-07-22 21:06)
     ✔ Each social media icon links to student's personal profile on that site @done(22-07-22 21:21)
     ✔ Must at least retain the GetHub icon. Delete other social media icons if a link is not provided @done(22-07-22 21:21)
-    ☐ The second page includes navigation links so the user is able to move between the pages
-    ☐ Link to second html file is present and links to a new page.
-    ☐ The second page contains:
-        ☐ additional text
-        ☐  an image
-    ☐ New profile image is in place
-        ☐ file size must be under 400 KB
-    ☐ "Profile image" class is still attached to profile <img> tag
-    ☐ New profile image's alt = "" attribute text has been updated
-    ☐ New backgournd images is in place
-        ☐ Fils size must be under 1 MB
-    ☐ All placeholder text has been changed for:
-        ☐ Name
-        ☐ Background section
-        ☐ Goals section
+    ✔ The second page includes navigation links so the user is able to move between the pages @done(22-07-24 11:37)
+    ✔ Link to second html file is present and links to a new page. @done(22-07-24 11:37)
+    ✔ New profile image is in place @done(22-07-24 11:37)
+        ✔ file size must be under 400 KB @done(22-07-24 11:37)
+    ✔ "Profile image" class is still attached to profile <img> tag @done(22-07-24 11:37)
+    ✔ New profile image's alt = "" attribute text has been updated @done(22-07-24 11:37)
+    ✔ New backgournd images is in place @done(22-07-24 11:38)
+        ✔ Fils size must be under 1 MB @done(22-07-24 11:38)
+    ✔ All placeholder text has been changed for: @done(22-07-24 12:11)
+        ✔ Name @done(22-07-24 12:11)
+        ✔ Background section @done(22-07-24 12:11)
+        ✔ Goals section @done(22-07-24 12:11)
+    ✔ Check and fix all semantic markup @done(22-07-24 16:32)
+    ✔ Add information to Contact Info section @done(22-07-24 16:32)
+        ✔ Email @done(22-07-24 16:32)
+        ✔ Phone number @done(22-07-24 16:32)
     ☐ HTML and CSS code passes the validation
     ☐ HTML and CSS errors and accepted exceptions
 
@@ -64,4 +68,7 @@ Exceeds Expectations:
     ☐ Changed tag names for the following <div> elements
         ☐ <div class = "main-nav"> should be a <nav> tag
         ☐ <div class = "card"> should be a <section> or <article> tag
+    ☐ Change hover for background and goals section
+    ☐ Change the color of "I am from florida"
+    ☐ Turn "skills" icons to buttons that are links to appropriate documentation
         
