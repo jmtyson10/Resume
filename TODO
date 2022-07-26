@@ -3,8 +3,8 @@ Meets Expectations:
         ✔ index.html @done(22-07-22 20:48)
         ✔ styles.css @done(22-07-22 20:49)
     ☐ The second page contains:
-        ☐ additional text
-        ☐  an image
+        ✔ additional text @done(22-07-26 08:06)
+        ✔  an image @done(22-07-26 08:05)
         ✔ Hobbies html file @done(22-07-24 15:55)
             ✔ Add: @done(22-07-24 15:55)
                 ✔ Jiujitsu @done(22-07-24 15:55)
@@ -20,19 +20,19 @@ Meets Expectations:
             ☐ Add:
                 ☐ BLUF Culinary
                     ☐ 1 Picture
-                    ☐ learned skills
+                    ✔ learned skills @done(22-07-26 07:51)
                 ☐ BLUF GIS
                     ☐ 1 Picture
-                    ☐ Learned skills
-                    ☐ Learned technologies
+                    ✔ Learned skills @done(22-07-26 08:05)
+                    ✔ Learned technologies @done(22-07-26 08:05)
                 ☐ BLUF Army
                     ☐ 1 Picture
-                    ☐ Learned skills
-                    ☐ Learned technologies like MS Teams
+                    ✔ Learned skills @started(22-07-26 07:54) @done(22-07-26 07:54) @lasted(23s)
+                    ✔ Learned technologies like MS Teams @done(22-07-26 07:51)
                 ☐ BLUF BS in Public Health
                     ☐ 1 Picture
-                    ☐ Learned skills
-                    ☐ Learned technologies
+                    ✔ Learned skills @done(22-07-26 07:51)
+                    ✔ Learned technologies @done(22-07-26 07:51)
         ✔ a new profile image @done(22-07-24 12:09)
         ✔ a new background image @done(22-07-24 12:10)
     ✔ Project must contain only 1 style sheet @done(22-07-22 21:06)
@@ -54,10 +54,8 @@ Meets Expectations:
     ✔ Add information to Contact Info section @done(22-07-24 16:32)
         ✔ Email @done(22-07-24 16:32)
         ✔ Phone number @done(22-07-24 16:32)
-    ☐ HTML and CSS code passes the validation
-    ☐ HTML and CSS errors and accepted exceptions
 
-Exceeds Expectations:
+    Exceeds Expectations:
     ☐ Extra page(s) added in addition to the Home and Second page and links to new pages work
     ☐ At least one of the following CSS style properties has been changed on the profile picture
         ☐ border
@@ -71,4 +69,9 @@ Exceeds Expectations:
     ☐ Change hover for background and goals section
     ☐ Change the color of "I am from florida"
     ☐ Turn "skills" icons to buttons that are links to appropriate documentation
-        
+    ☐ Spell Check:
+        ☐ index.html
+        ☐ Hobbies.html
+        ☐ Experience.html
+    ☐ HTML and CSS code passes the validation
+    ☐ HTML and CSS errors and accepted exceptions
