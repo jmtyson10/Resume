@@ -214,11 +214,11 @@ a.social:hover {
 
 }
 
-.secondary {
-  width: 100%;
-  min-height: 30px;
+.Experience-Information-Section {
+  width: 85%;
+  height: 100%;
   padding: 15px;
-  position: fixed;
+  margin: auto;
   text-align: justify;
 }
 
@@ -230,4 +230,15 @@ a.social:hover {
 .gis{
   width: 150x;
   height: 100px;
+}
+
+.ExpHeader_Centered {
+  text-align: center;
+}
+.Hobbies-nav, .Experience-nav {
+  width: 100%;
+  background: black;
+  min-height: 30px;
+  padding: 10px;
+  text-align: center;
 }
