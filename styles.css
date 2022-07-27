@@ -70,8 +70,8 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 15px 50px;
+  border: 4px solid rgb(88, 120, 11);
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -95,7 +95,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: rgb(0, 162, 255);
 }
 .card {
   margin: 30px;
@@ -222,17 +222,17 @@ a.social:hover {
   text-align: justify;
 }
 
-.exp-pics {
-  width: 75px;
+.ca {
+  width: 125px;
   height: auto;
 }
 
 .gis{
-  width: 150x;
-  height: 100px;
+  width: 250x;
+  height: 250px;
 }
 
-.ExpHeader_Centered {
+.Experience-Centered {
   text-align: center;
 }
 .Hobbies-nav, .Experience-nav {
@@ -241,4 +241,5 @@ a.social:hover {
   min-height: 30px;
   padding: 10px;
   text-align: center;
+  position: fixed;
 }

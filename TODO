@@ -2,7 +2,7 @@ Meets Expectations:
     ✔ Project Includes the Following: @done(22-07-24 12:12)
         ✔ index.html @done(22-07-22 20:48)
         ✔ styles.css @done(22-07-22 20:49)
-    ☐ The second page contains:
+    ✔ The second page contains: @done(22-07-27 21:22)
         ✔ additional text @done(22-07-26 08:06)
         ✔  an image @done(22-07-26 08:05)
         ✔ Hobbies html file @done(22-07-24 15:55)
@@ -16,21 +16,21 @@ Meets Expectations:
                 ✔ Python @done(22-07-24 15:55)
                     ✔ Goal: there really isn't one I just like learning and playing with Python @done(22-07-24 15:55)
                     ✔ 1 Pic @done(22-07-24 15:55)
-        ☐ Experience html file
-            ☐ Add:
-                ☐ BLUF Culinary
-                    ☐ 1 Picture
+        ✔ Experience html file @done(22-07-27 21:22)
+            ✔ Add: @done(22-07-27 21:22)
+                ✔ BLUF Culinary @done(22-07-27 21:08)
+                    ✔ 1 Picture @done(22-07-27 21:08)
                     ✔ learned skills @done(22-07-26 07:51)
-                ☐ BLUF GIS
-                    ☐ 1 Picture
+                ✔ BLUF GIS @done(22-07-27 21:08)
+                    ✔ 1 Picture @done(22-07-27 21:08)
                     ✔ Learned skills @done(22-07-26 08:05)
                     ✔ Learned technologies @done(22-07-26 08:05)
-                ☐ BLUF Army
-                    ☐ 1 Picture
+                ✔ BLUF Army @done(22-07-27 21:08)
+                    ✔ 1 Picture @done(22-07-27 21:08)
                     ✔ Learned skills @started(22-07-26 07:54) @done(22-07-26 07:54) @lasted(23s)
                     ✔ Learned technologies like MS Teams @done(22-07-26 07:51)
-                ☐ BLUF BS in Public Health
-                    ☐ 1 Picture
+                ✔ BLUF BS in Public Health @done(22-07-27 21:22)
+                    ✔ 1 Picture @done(22-07-27 21:22)
                     ✔ Learned skills @done(22-07-26 07:51)
                     ✔ Learned technologies @done(22-07-26 07:51)
         ✔ a new profile image @done(22-07-24 12:09)
@@ -56,19 +56,19 @@ Meets Expectations:
         ✔ Phone number @done(22-07-24 16:32)
 
     Exceeds Expectations:
-    ☐ Extra page(s) added in addition to the Home and Second page and links to new pages work
+    ✔ Extra page(s) added in addition to the Home and Second page and links to new pages work @started(22-07-27 21:31) @done(22-07-27 21:32) @lasted(1m5s)
     ☐ At least one of the following CSS style properties has been changed on the profile picture
-        ☐ border
-        ☐ border-radius
+        ✔ border @done(22-07-27 22:00)
+        ✔ border-radius @done(22-07-27 21:56)
         ☐ transition
         ☐ transformation
-    ☐ Additional text content has been added.
-    ☐ Changed tag names for the following <div> elements
-        ☐ <div class = "main-nav"> should be a <nav> tag
-        ☐ <div class = "card"> should be a <section> or <article> tag
+    ✔ Additional text content has been added. @done(22-07-27 21:32)
+    ✔ Changed tag names for the following <div> elements @done(22-07-27 21:32)
+        ✔ <div class = "main-nav"> should be a <nav> tag @done(22-07-27 21:32)
+        ✔ <div class = "card"> should be a <section> or <article> tag @done(22-07-27 21:32)
     ☐ Change hover for background and goals section
-    ☐ Change the color of "I am from florida"
-    ☐ Turn "skills" icons to buttons that are links to appropriate documentation
+    ✔ Change the color of "I am from florida" @started(22-07-27 21:49) @done(22-07-27 21:49) @lasted(39s)
+    ✔ Turn "skills" icons to buttons that are links to appropriate documentation @started(22-07-27 21:33) @done(22-07-27 21:33) @lasted(50s)
     ☐ Spell Check:
         ☐ index.html
         ☐ Hobbies.html
