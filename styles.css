@@ -214,3 +214,20 @@ a.social:hover {
 
 }
 
+.secondary {
+  width: 100%;
+  min-height: 30px;
+  padding: 15px;
+  position: fixed;
+  text-align: justify;
+}
+
+.exp-pics {
+  width: 75px;
+  height: auto;
+}
+
+.gis{
+  width: 150x;
+  height: 100px;
+}
