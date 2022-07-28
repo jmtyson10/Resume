@@ -57,16 +57,16 @@ Meets Expectations:
 
     Exceeds Expectations:
     ✔ Extra page(s) added in addition to the Home and Second page and links to new pages work @started(22-07-27 21:31) @done(22-07-27 21:32) @lasted(1m5s)
-    ☐ At least one of the following CSS style properties has been changed on the profile picture
+    ✔ At least one of the following CSS style properties has been changed on the profile picture @done(22-07-28 08:26)
         ✔ border @done(22-07-27 22:00)
         ✔ border-radius @done(22-07-27 21:56)
-        ☐ transition
-        ☐ transformation
+        ✔ transition @done(22-07-28 08:25)
+        ✔ transformation @done(22-07-28 08:25)
     ✔ Additional text content has been added. @done(22-07-27 21:32)
     ✔ Changed tag names for the following <div> elements @done(22-07-27 21:32)
         ✔ <div class = "main-nav"> should be a <nav> tag @done(22-07-27 21:32)
         ✔ <div class = "card"> should be a <section> or <article> tag @done(22-07-27 21:32)
-    ☐ Change hover for background and goals section
+    ✔ Change hover for background and goals section @done(22-07-28 08:39)
     ✔ Change the color of "I am from florida" @started(22-07-27 21:49) @done(22-07-27 21:49) @lasted(39s)
     ✔ Turn "skills" icons to buttons that are links to appropriate documentation @started(22-07-27 21:33) @done(22-07-27 21:33) @lasted(50s)
     ☐ Spell Check:
