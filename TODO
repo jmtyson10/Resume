@@ -69,9 +69,9 @@ Meets Expectations:
     ✔ Change hover for background and goals section @done(22-07-28 08:39)
     ✔ Change the color of "I am from florida" @started(22-07-27 21:49) @done(22-07-27 21:49) @lasted(39s)
     ✔ Turn "skills" icons to buttons that are links to appropriate documentation @started(22-07-27 21:33) @done(22-07-27 21:33) @lasted(50s)
-    ☐ Spell Check:
-        ☐ index.html
-        ☐ Hobbies.html
-        ☐ Experience.html
-    ☐ HTML and CSS code passes the validation
-    ☐ HTML and CSS errors and accepted exceptions
+    ✔ Spell Check: @done(22-07-28 09:51)
+        ✔ index.html @started(22-07-28 09:38) @done(22-07-28 09:40) @lasted(2m36s)
+        ✔ Hobbies.html @started(22-07-28 09:40) @done(22-07-28 09:43) @lasted(3m24s)
+        ✔ Experience.html @started(22-07-28 09:43) @done(22-07-28 09:51) @lasted(8m34s)
+    ✔ HTML and CSS code passes the validation @started(22-07-28 10:09) @done(22-07-28 10:11) @lasted(2m48s)
+    ✔ HTML and CSS errors and accepted exceptions @done(22-07-28 10:14)

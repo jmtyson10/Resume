@@ -74,7 +74,6 @@ header .profile-image {
   border: 4px solid rgb(88, 120, 11);
   transition-property: all;
   transition-duration: 2s;
-  transition-timing-function: cubic-bezier(x1, y1, x2, y2);
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg) skewx(20deg);
@@ -109,9 +108,9 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+.card:hover{
   border-color: #f70606;
-  transform: scale(1.5);
+  transform: scale(1.3);
 }
 
 ul.skills {
@@ -231,12 +230,15 @@ a.social:hover {
 }
 
 .gis{
-  width: 250x;
+  width: 250px;
   height: 250px;
 }
-
 .Secondary-Centered {
   text-align: center;
+}
+.Hobbies-title {
+  text-align: center;
+  margin-top: 2%;
 }
 .Secondary-nav {
   width: 100%;
@@ -244,6 +246,7 @@ a.social:hover {
   min-height: 30px;
   padding: 10px;
   text-align: center;
+  position: fixed;
 }
 .Hobbies-card{
   margin-left: auto;
@@ -259,5 +262,5 @@ a.social:hover {
 }
 .Hobbies-card:hover {
   border-color: #f70606;
-  transform: scale(1.5);
+  transform: scale(1.3);
 }
