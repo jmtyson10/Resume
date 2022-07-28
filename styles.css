@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('../images/TheDam.jpeg') no-repeat top center ;
+  background: url('../images/the_dam.jpeg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -78,7 +78,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg) skewx(20deg);
 }
-.Hobby_Pictures {
+.hobby-pictures {
   margin-top: 50px;
   width: 150px;
   height: 150px;
@@ -216,7 +216,7 @@ a.social:hover {
 
 }
 
-.Experience-Information-Section {
+.experience-information-section {
   width: 85%;
   height: 100%;
   padding: 15px;
@@ -233,14 +233,14 @@ a.social:hover {
   width: 250px;
   height: 250px;
 }
-.Secondary-Centered {
+.secondary-centered {
   text-align: center;
 }
-.Hobbies-title {
+.hobbies-title {
   text-align: center;
   margin-top: 2%;
 }
-.Secondary-nav {
+.secondary-nav {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -248,7 +248,7 @@ a.social:hover {
   text-align: center;
   position: fixed;
 }
-.Hobbies-card{
+.hobbies-card{
   margin-left: auto;
   margin-right: auto;
   padding: 20px 40px 40px;
@@ -260,7 +260,7 @@ a.social:hover {
   transition: all .5s;
   margin-top: 100px;
 }
-.Hobbies-card:hover {
+.hobbies-card:hover {
   border-color: #f70606;
   transform: scale(1.3);
 }
