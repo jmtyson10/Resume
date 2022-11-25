@@ -1,25 +1,70 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
+
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Resume</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='css/styles.css'>
-    <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet"><script src='main.js'></script>
+    <meta charset="utf-8">
+    <title>Jordan Tyson's Profile</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
 </head>
 
-<body>
-    <nav class="main-navigation">
-        <ul class="navigation-btn-group">
-            <li class="nav-btn"><a href="index.html">Home</a></li>
-            <li class="nav-btn"><a href="hobbies.html">Hobbies</a></li>
-            <li class="nav-btn"><a href="experience.html">Experience</a></li>
-
-            <!-- Figure out the dark mode stuff
-            <li class="nav-btn"><a href="">Dark</a></li> -->
-        </ul>
+<body class="grid-body">
+    <nav class="main-nav">
+        <a class="btn-nav" href="index.html">Home</a>
+        <a class="btn-nav" href="Hobbies.html">Hobbies</a>
+        <a class="btn-nav" href="Experience.html">Experience</a>
     </nav>
-    
+
+    <header>
+        <img src="../images/harry.jpeg" alt="A picture of Jordan with Harry the horse." class="profile-image">
+        <h1 class="tag name">Hello, I’m Jordan.</h1>
+        <p class="tag location">I am from Orlando, Florida.</p>
+    </header>
+
+    <main class="flex">
+        <section class="card">
+            <h2>Background</h2>
+            <p>I’m an aspiring GIS designer who loves everything about data science and analysis. I've lived in few
+                different places and have worked in lots of different industries from the culinary arts to the US Army.
+                I’m excited to bring my life experience to the process of learning a set of skills to become a Full
+                Stack Developer.</p>
+            <p>I’ve been a professional chef and GIS Technician and am a life-long learner who's always interested in
+                expanding my skills.</p>
+        </section>
+
+        <section class="card">
+            <h2>Goals</h2>
+            <p>I want to master the skills needed to become a Full Stack Developer and am starting with these skills:
+            </p>
+            <ul class="skills">
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a></li>
+                <li><a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a></li>
+                <li><a href="https://262.ecma-international.org/" target="_blank">JavaScript</a></li>
+                <li><a href="https://docs.python.org/3/" target="_blank">Python</a></li>
+                <li><a href="https://reactjs.org/docs/getting-started.html" target="_blank">React</a></li>
+            </ul>
+            <p>I’d like to work for a GIS and Data Science/Analysis firm developing workflow solutions and working with
+                a team to answer complex problems.</p>
+        </section>
+    </main>
+
+    <footer>
+        <section>
+            <h2>Contact Info</h2>
+            <address>
+                email address@somewhere.com<br>
+                +1 (209) 867-5309<br>
+                123 Street Ave.<br>
+                This City, Some State, 98765
+            </address>
+        </section>
+        <ul>
+            <li><a href="https://twitter.com/SGIS100" class="social twitter" target="_blank">Twitter</a></li>
+            <li><a href="https://github.com/jmtyson10" class="social github" target="_blank">Github</a></li>
+        </ul>
+        <p class="copyright">&#169; 2015, Jordan Tyson</p>
+    </footer>
 </body>
+
 </html>

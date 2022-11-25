@@ -1,1 +1,46 @@
 @use '../utilities/' as *;
+
+// Grid Areas
+nav {
+    grid-area: navigation;
+}
+
+header {
+    grid-area: head;
+}
+
+main {
+    grid-area: main;
+}
+
+footer {
+    grid-area: foot;
+}
+
+
+// Grid layouts
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 75px;
+    grid-template-columns: 100vw;
+    grid-gap: 0;
+    grid-template-areas: 
+    "navigation"
+    "head"
+    "main"
+    "foot";
+}
+
+// FlexBox layouts
+.main-nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}

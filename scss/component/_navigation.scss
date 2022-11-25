@@ -1,10 +1,13 @@
 @use '../utilities/' as *;
 
-.main-nav {
-    width: 100%;
-    background: black;
-    min-height: 30px;
-    padding: 10px;
-    position: fixed;
-    text-align: center;
+nav {
+    background-color: $light-blue;
+    height: 75px;
+}
+
+.btn-nav {
+    
+    align-self: center;
+    color: $olive-green;
+    font-size:xx-large;
 }
