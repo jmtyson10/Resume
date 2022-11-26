@@ -9,3 +9,14 @@ header {
     background: url('../images/the_dam.jpeg') no-repeat top center;
     background-size: cover;
 }
+
+.header-text {
+    min-width: 280px;
+    max-width: 30%;
+    margin: auto;
+    text-align: center;
+    background-color: $tan;
+    opacity: 0.75;
+    border: thick double $olive;
+    border-radius: 15%;
+}

@@ -7,6 +7,17 @@ header {
   background-size: cover;
 }
 
+.header-text {
+  min-width: 280px;
+  max-width: 30%;
+  margin: auto;
+  text-align: center;
+  background-color: #FBEEC1;
+  opacity: 0.75;
+  border: thick double #8D8741;
+  border-radius: 15%;
+}
+
 nav {
   background-color: #8FC1E3;
   height: 75px;
@@ -37,7 +48,7 @@ footer {
 body {
   height: 100vh;
   display: grid;
-  grid-template-rows: 75px;
+  grid-template-rows: 75px 350px;
   grid-template-columns: 100vw;
   grid-gap: 0;
   grid-template-areas: "navigation" "head" "main" "foot";
@@ -52,12 +63,14 @@ body {
 header {
   display: flex;
   flex-direction: column;
-  align-content: center;
 }
 
 img {
   width: 150px;
   height: 150px;
+  margin: auto;
+  border: thin solid #8FC1E3;
+  border-radius: 5%;
 }
 
 /*# sourceMappingURL=styles.css.map */
