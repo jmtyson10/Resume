@@ -20,3 +20,17 @@ header {
     border: thick double $olive;
     border-radius: 15%;
 }
+
+main {
+    background-color: $tan;
+}
+
+.card{
+    border: solid $dark-sand;
+    background-color: $off-white;
+    margin: 15px;
+}
+
+h2, p {
+    text-align: center;
+}

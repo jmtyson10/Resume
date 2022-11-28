@@ -23,8 +23,7 @@ body {
     height: 100vh;
     display: grid;
     grid-template-rows: 75px 350px;
-    grid-template-columns: 100vw;
-    grid-gap: 0;
+    grid-template-columns: minmax(280, 95vw);
     grid-template-areas: 
     "navigation"
     "head"
@@ -42,4 +41,9 @@ body {
 header {
     display: flex;
     flex-direction: column;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
 }

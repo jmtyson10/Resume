@@ -18,6 +18,20 @@ header {
   border-radius: 15%;
 }
 
+main {
+  background-color: #FBEEC1;
+}
+
+.card {
+  border: solid #BC986A;
+  background-color: #F7F9FB;
+  margin: 15px;
+}
+
+h2, p {
+  text-align: center;
+}
+
 nav {
   background-color: #8FC1E3;
   height: 75px;
@@ -49,8 +63,7 @@ body {
   height: 100vh;
   display: grid;
   grid-template-rows: 75px 350px;
-  grid-template-columns: 100vw;
-  grid-gap: 0;
+  grid-template-columns: minmax(280, 95vw);
   grid-template-areas: "navigation" "head" "main" "foot";
 }
 
@@ -63,6 +76,11 @@ body {
 header {
   display: flex;
   flex-direction: column;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(200px, 1fr));
 }
 
 img {
