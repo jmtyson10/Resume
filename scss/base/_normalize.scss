@@ -21,11 +21,12 @@ header {
     border-radius: 15%;
 }
 
-main {
+main, footer {
     background-color: $tan;
 }
 
 .card{
+    max-height: 250px;
     border: solid $dark-sand;
     background-color: $off-white;
     margin: 15px;
@@ -33,4 +34,12 @@ main {
 
 h2, p {
     text-align: center;
+}
+
+address, .social-media {
+    text-align: center;
+}
+
+.social{
+    margin: 10px;
 }

@@ -22,7 +22,7 @@ footer {
 body {
     height: 100vh;
     display: grid;
-    grid-template-rows: 75px 350px;
+    grid-template-rows: 75px 350px 1fr;
     grid-template-columns: minmax(280, 95vw);
     grid-template-areas: 
     "navigation"
@@ -31,19 +31,23 @@ body {
     "foot";
 }
 
+main {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+}
+
 // FlexBox layouts
 .main-nav {
     display: flex;
-    justify-content: center;
     justify-content: space-evenly;
 }
 
-header {
+header, footer {
     display: flex;
     flex-direction: column;
 }
 
-main {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(200px, 1fr));
+.skills {
+    display: flex;
+    justify-content: space-around;
 }

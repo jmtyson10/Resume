@@ -18,11 +18,12 @@ header {
   border-radius: 15%;
 }
 
-main {
+main, footer {
   background-color: #FBEEC1;
 }
 
 .card {
+  max-height: 250px;
   border: solid #BC986A;
   background-color: #F7F9FB;
   margin: 15px;
@@ -30,6 +31,14 @@ main {
 
 h2, p {
   text-align: center;
+}
+
+address, .social-media {
+  text-align: center;
+}
+
+.social {
+  margin: 10px;
 }
 
 nav {
@@ -62,25 +71,29 @@ footer {
 body {
   height: 100vh;
   display: grid;
-  grid-template-rows: 75px 350px;
+  grid-template-rows: 75px 350px 1fr;
   grid-template-columns: minmax(280, 95vw);
   grid-template-areas: "navigation" "head" "main" "foot";
-}
-
-.main-nav {
-  display: flex;
-  justify-content: center;
-  justify-content: space-evenly;
-}
-
-header {
-  display: flex;
-  flex-direction: column;
 }
 
 main {
   display: grid;
   grid-template-columns: repeat(2, minmax(200px, 1fr));
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+header, footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-around;
 }
 
 img {
