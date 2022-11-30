@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+/*
+The following css is for index.HTML.
+Some of this might be global for all pages associated in this project.
+*/
+
 // Header Styling
 header {
     background: url('../images/the_dam.jpeg') no-repeat top center;
@@ -25,7 +30,7 @@ main, footer {
     background-color: $tan;
 }
 
-.card{
+.card-index{
     max-height: 250px;
     border: solid $dark-sand;
     background-color: $off-white;
@@ -42,4 +47,17 @@ address, .social-media {
 
 .social{
     margin: 10px;
+}
+
+/*
+The following css is for experience.HTML.
+Some of this might be global for all pages associated in this project.
+*/
+
+.art-title, 
+.card-experience1, 
+.card-experience2, 
+.card-experience3, 
+.card-experience4 {
+    text-align: center;
 }

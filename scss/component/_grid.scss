@@ -17,6 +17,10 @@ footer {
     grid-area: foot;
 }
 
+/*
+The following css is for index.HTML.
+Some of this might be global for all pages associated in this project.
+*/
 
 // Grid layouts
 body {
@@ -51,3 +55,36 @@ header, footer {
     display: flex;
     justify-content: space-around;
 }
+
+/*
+The following css is for experience.HTML.
+Some of this might be global for all pages associated in this project.
+*/
+
+// Grid areas
+.art-title {
+    grid-area: title;
+}
+// Gird layouts
+.grid-body-experience {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 75px 1fr;
+    grid-template-columns: minmax(280, 95vw);
+    grid-template-areas:
+        "navigation"
+        "main"
+        "foot";
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+    'title title'
+    'card-experience1 card-experience2'
+    'card-experience3 card-experience4';
+}
+
+// FlexBox layouts
+

@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+/*
+The following css is for index.HTML.
+Some of this might be global for all pages associated in this project.
+*/
 header {
   background: url("../images/the_dam.jpeg") no-repeat top center;
   background-size: cover;
@@ -22,7 +26,7 @@ main, footer {
   background-color: #FBEEC1;
 }
 
-.card {
+.card-index {
   max-height: 250px;
   border: solid #BC986A;
   background-color: #F7F9FB;
@@ -39,6 +43,18 @@ address, .social-media {
 
 .social {
   margin: 10px;
+}
+
+/*
+The following css is for experience.HTML.
+Some of this might be global for all pages associated in this project.
+*/
+.art-title,
+.card-experience1,
+.card-experience2,
+.card-experience3,
+.card-experience4 {
+  text-align: center;
 }
 
 nav {
@@ -68,6 +84,10 @@ footer {
   grid-area: foot;
 }
 
+/*
+The following css is for index.HTML.
+Some of this might be global for all pages associated in this project.
+*/
 body {
   height: 100vh;
   display: grid;
@@ -94,6 +114,28 @@ header, footer {
 .skills {
   display: flex;
   justify-content: space-around;
+}
+
+/*
+The following css is for experience.HTML.
+Some of this might be global for all pages associated in this project.
+*/
+.art-title {
+  grid-area: title;
+}
+
+.grid-body-experience {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 75px 1fr;
+  grid-template-columns: minmax(280, 95vw);
+  grid-template-areas: "navigation" "main" "foot";
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "title title" "card-experience1 card-experience2" "card-experience3 card-experience4";
 }
 
 img {
